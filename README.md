@@ -1,3 +1,7 @@
+Dataset
+https://www.kaggle.com/datasets/parisrohan/credit-score-classification
+##
+
 ![image](https://github.com/user-attachments/assets/af1333ee-005b-407a-8ebf-93f6a8c511eb)
 
 ![image](https://github.com/user-attachments/assets/c726d4d2-568e-49b8-a84d-8ed6f36bcfdd)
